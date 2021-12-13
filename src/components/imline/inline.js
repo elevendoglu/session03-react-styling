@@ -1,16 +1,17 @@
 import React from 'react'
+import { myStyles } from  "./styles"
 
-const myStyles = {
-    paragraph:{
+// const myStyles = {
+//     paragraph:{
 
-        color: "blue",
-        fontSize: "1.2rem",
-        fontWeight: "bolder"
-    },
-    seconddiv: {
-        backgroundColor: "#b0b0b0"
-    }
-}
+//         color: "blue",
+//         fontSize: "1.2rem",
+//         fontWeight: "bolder"
+//     },
+//     seconddiv: {
+//         backgroundColor: "#b0b0b0"
+//     }
+// }
 
 const Inline = () => {
     return (
